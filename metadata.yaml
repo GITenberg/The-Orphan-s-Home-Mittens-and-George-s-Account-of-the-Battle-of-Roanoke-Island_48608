@@ -1,4 +1,8 @@
 _repo: The-Orphan-s-Home-Mittens-and-George-s-Account-of-the-Battle-of-Roanoke-Island_48608
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48608-h/images/cover.jpg
 creator:
   author:
     agent_name: Fanny, Aunt
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '33364'
     url: http://www.gutenberg.org/2009/agents/33364
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48608#The-Orphan-s-Home-Mittens-and-George-s-Account-of-the-Battle-of-Roanoke-Island
 gutenberg_issued: '2015-03-30'
 gutenberg_type: Text
 identifiers:
